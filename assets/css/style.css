@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header nav { /* removed div */
+.header nav { /* replaced div with nav */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {  /* removed div */
+.header nav ul {  /* replaced div with nav */
     list-style-type: none;
 }
 
-.header nav ul li { /* removed div */
+.header nav ul li { /* replaced div with nav */
     display: inline-block;
     margin-left: 25px;
 }
