@@ -8,23 +8,23 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header nav { /* replaced div with nav */
+header nav { /* replaced div with nav */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {  /* replaced div with nav */
+header nav ul {  /* replaced div with nav */
     list-style-type: none;
 }
 
-.header nav ul li { /* replaced div with nav */
+header nav ul li { /* replaced div with nav */
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,17 +86,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost { /* merged commands together */
+.benefit { /* merged commands together, removed the list and used the unified code*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 { /*merged commands together */
+.benefit h3 { /*merged commands together */
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img { /*merged commands together */
+.benefit img { /*merged commands together */
     display: block;
     margin: 10px auto;
     max-width: 150px;
