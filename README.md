@@ -48,12 +48,13 @@ The Horiseon page features a hero banner followed by three main sections and a s
 
 ##   <a name='Credits'></a>Credits
 
-* Default files were provided by edX Bootcamp (https://www.edx.org/course/skills-bootcamp-in-front-end-web-development).
-* Code refactoring created by Bea Konya.
-* Additional guidance was received from Ramon Sanchez edX Bootcamp Tutor.
-* Additional guidance was also applied from Professional README guide (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
-* Table of Contents created with VSC Extension 'Markdown TOC' (https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
-* Special thanks to YuoTube User Code 2020 for guidance on how to drag screenshot into md file (https://www.youtube.com/watch?v=jpeh1WorrWM).
+- Default files provided by [edX Bootcamp](https://www.edx.org/course/skills-bootcamp-in-front-end-web-development).
+- Code refactoring by [Bea Konya](https://github.com/beatak777).
+- Additional guidance from [W3 Schools HTML Semantic Article](https://www.w3schools.com/html/html5_semantic_elements.asp).
+- Additional guidance received from Ramon Sanchez, edX Bootcamp Tutor.
+- Additional guidance from the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
+- Table of Contents was Created with the Visual Studio Code Extension 'Markdown TOC' available [here](https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
+- Special thanks to YouTube User [Code 2020](https://www.youtube.com/watch?v=jpeh1WorrWM) for guidance on how to drag screenshots into Markdown files.
 
 ##   <a name='License'></a>License
 
