@@ -14,7 +14,7 @@ The Horiseon page features a hero banner followed by three main sections and a s
 
 ## Deployed Page
 
-![Deployed Page Screenshot] 
+![Deployed Page Screenshot] (./assets/images/deployed-screenshot.png)
 [Deployed Github Page] 
 ## Refactor Comments
 
