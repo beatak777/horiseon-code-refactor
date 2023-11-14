@@ -51,7 +51,7 @@ The Horiseon page features a hero banner followed by three main sections and a s
 - Default files provided by [edX Bootcamp](https://www.edx.org/course/skills-bootcamp-in-front-end-web-development).
 - Code refactoring by [Bea Konya](https://github.com/beatak777).
 - Additional guidance from [W3 Schools HTML Semantic Article](https://www.w3schools.com/html/html5_semantic_elements.asp).
-- Additional guidance received from Ramon Sanchez, edX Bootcamp Tutor.
+- Additional guidance received from [Ramon Sanchez](https://gist.github.com/songwright), edX Bootcamp Tutor.
 - Additional guidance from the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
 - Table of Contents was Created with the Visual Studio Code Extension 'Markdown TOC' available [here](https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
 - Special thanks to YouTube User [Code 2020](https://www.youtube.com/watch?v=jpeh1WorrWM) for guidance on how to drag screenshots into Markdown files.
