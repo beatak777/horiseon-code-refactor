@@ -3,7 +3,7 @@
 
 ##  <a name='Description'></a>Description
 
-The Horiseon page features a hero banner followed by three main sections and a sidebar. The page works with a navigational header and a footer. Semantic HTML and image alt attributes have been used to increase the Search Engine Optimization.
+The Horiseon page showcases a hero banner followed by three main sections and a sidebar. The site is designed with a navigational header and a footer. To boost Search Engine Optimization, semantic HTML and image alt attributes have been incorporated.
 
 ##  <a name='TableofContents'></a>Table of Contents
 
@@ -55,6 +55,7 @@ The Horiseon page features a hero banner followed by three main sections and a s
 - Additional guidance from the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
 - Table of Contents was Created with the Visual Studio Code Extension 'Markdown TOC' available [here](https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
 - Special thanks to YouTube User [Code 2020](https://www.youtube.com/watch?v=jpeh1WorrWM) for guidance on how to drag screenshots into Markdown files.
+- Special thanks to Youtube User [Web Dev Simplified](https://www.youtube.com/watch?v=1PnVor36_40&list=PL2mu10Key7YdFMbsu2KEv3lKkakbnHyRo&index=71&t=12s) for in depth CSS explanation which has been helpful in completing this project.
 
 ##   <a name='License'></a>License
 
