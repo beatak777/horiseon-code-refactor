@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-main {
+main { /* removed . */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -120,7 +120,7 @@ aside {  /* removed . as html class attribute got removed as well*/
     font-size: 36px;
 }
 
-footer {
+footer { /*removed . */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
