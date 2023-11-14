@@ -13,9 +13,11 @@ The Horiseon page features a hero banner followed by three main sections and a s
 5. [License] (#license)
 
 ## Deployed Page
+```md
+- ![Deployed Page Screenshot] (./assets/images/deployed-screenshot.png)
+```
 
-![Deployed Page Screenshot] (./assets/images/deployed-screenshot.png)
-[Deployed Github Page] 
+- [Deployed Github Page] 
 ## Refactor Comments
 
 * Added comments to index.html and style.css to note the changes in the project during the refactoring.
@@ -31,6 +33,7 @@ The Horiseon page features a hero banner followed by three main sections and a s
 ## Installation
 
 1. Download or clone repository
+3. Navigate to project directory
 2. Open index.html in your browser
 
 ## Credits
