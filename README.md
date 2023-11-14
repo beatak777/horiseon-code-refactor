@@ -38,6 +38,7 @@ The Horiseon page features a hero banner followed by three main sections and a s
 * Fixed broken navigation link.
 * Added alt attributes to images in order to improve SEO.
 * Hero image updated in a smaller size in order to make sure the website loads faster.
+* Created README.md file and listed all sites, exententions and contributors to this work.
 
 ##   <a name='Installation'></a>Installation
 
@@ -52,7 +53,7 @@ The Horiseon page features a hero banner followed by three main sections and a s
 * Additional guidance was received from Ramon Sanchez edX Bootcamp Tutor.
 * Additional guidance was also applied from Professional README guide (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide).
 * Table of Contents created with VSC Extension 'Markdown TOC' (https://marketplace.visualstudio.com/items?itemName=dumeng.markdown-toc).
-* Special thanks to YuoTube User Code 2020 for guidance on how to drag screenshot into md file (https://www.youtube.com/watch?v=jpeh1WorrWM)
+* Special thanks to YuoTube User Code 2020 for guidance on how to drag screenshot into md file (https://www.youtube.com/watch?v=jpeh1WorrWM).
 
 ##   <a name='License'></a>License
 
